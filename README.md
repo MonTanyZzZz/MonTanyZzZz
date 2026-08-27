@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://github.com/MonTanyZzZz">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hi!%20I'm%20Marcelo" alt="Hi! I&#39;m Marcelo" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=code%20and%20coffe" alt="Typing headlines" />
 </p>
 
